@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/rfuki04p8amkfcwg?svg=true)](https://ci.appveyor.com/project/Gabr12el/auto5patterns)
+
 # Домашнее задание к занятию «2.3. Patterns»
 
 **Важно**: если у вас что-то не получилось, то оформляйте Issue [по установленным правилам](../report-requirements.md).
